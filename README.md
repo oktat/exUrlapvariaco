@@ -1,7 +1,7 @@
-# exUrlapnavigacio
+# exUrlapvariacio
 
-Űrlapnavigáció Angular 18-ban megvalósítva.
+Űrlapvariáció Angular 18-ban megvalósítva.
 
 ## Élő változat
 
-[https://szit.hu/m/exUrlapnavigacio](https://szit.hu/m/exUrlapnavigacio)
+[https://szit.hu/m/exUrlapvariacio](https://szit.hu/m/exUrlapvariacio)
